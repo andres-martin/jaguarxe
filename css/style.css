@@ -54,6 +54,6 @@ section a div:hover {
 @media (max-width: 730px) {
   section {
     width: 70%;
-    margin-top: 2rem;
+    margin-top: 1rem;
   }
 }
